@@ -51,7 +51,7 @@ The `Suspension_Coil.csv` file contains data on the results of testing weight ca
 
 - Total Summary
 
-![Deliverable_2_Total_Summary](Resources/Deliverable_2_Total_Summary.png.png)
+![Deliverable_2_Total_Summary](Resources/Deliverable_2_Total_Summary.png)
 
 
 - Lot Summary
